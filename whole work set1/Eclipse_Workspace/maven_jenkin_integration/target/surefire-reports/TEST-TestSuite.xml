@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="3" failures="1" name="TestSuite" time="767.294" errors="0" skipped="2">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="WebdriverTest"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/WebdriverTest/1/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="b7e87317ec2580fe"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="RegionCode" value="APJ"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_291\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_291\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="TEMP" value="C:\windows\TEMP"/>
+    <property name="java.runtime.version" value="1.8.0_291-b10"/>
+    <property name="WINSW_SERVICE_ID" value="jenkins"/>
+    <property name="user.name" value="LAPTOP-HVNH2UIN$"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="OnlineServices" value="Online Services"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="WebdriverTest"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/WebdriverTest/1/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#1"/>
+    <property name="OneDrive" value="C:\windows\system32\config\systemprofile\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_291\jre\bin"/>
+    <property name="LOCALAPPDATA" value="C:\windows\system32\config\systemprofile\AppData\Local"/>
+    <property name="java.version" value="1.8.0_291"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="USERNAME" value="LAPTOP-HVNH2UIN$"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_291\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="1"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Maven_3.8.3\conf"/>
+    <property name="JDK_Home" value="C:\Program Files\Java\jdk1.8.0_291"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="IN"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_291\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.0"/>
+    <property name="platformcode" value="KV"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/WebdriverTest/1/display/redirect"/>
+    <property name="TMP" value="C:\windows\TEMP"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/WebdriverTest/1/display/redirect?page=artifacts"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.291-b10"/>
+    <property name="user.variant" value=""/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/WebdriverTest/display/redirect"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_291"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\windows\system32\cmd.exe"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="SERVICE_ID" value="jenkins"/>
+    <property name="COMPUTERNAME" value="LAPTOP-HVNH2UIN"/>
+    <property name="user.script" value=""/>
+    <property name="user.home" value="C:\windows\system32\config\systemprofile"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-WebdriverTest-1"/>
+    <property name="JENKINS_SERVER_COOKIE" value="b7e87317ec2580fe"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\windows\system32\config\systemprofile"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_291\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Maven_3.8.3/bin;C:\Python310\Scripts\;C:\Python310\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk-17\bin\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\windows\system32\config\systemprofile\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Maven_3.8.3"/>
+    <property name="java.class.path" value="C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Maven_3.8.3\boot\plexus-classworlds-2.6.0.jar;C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Maven_3.8.3/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Maven_3.8.3 C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins\war\WEB-INF\lib\remoting-4.10.jar C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 50045"/>
+    <property name="Path" value="C:\Python310\Scripts\;C:\Python310\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk-17\bin\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 126 Stepping 5, GenuineIntel"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Maven_3.8.3"/>
+    <property name="java.io.tmpdir" value="C:\windows\TEMP\"/>
+    <property name="CI" value="true"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Maven_3.8.3/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/WebdriverTest/1/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\windows"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_291\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="D:\Eclipse\Eclipse_Workspace\maven_jenkin_integration"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/WebdriverTest/"/>
+    <property name="USERDOMAIN" value="WORKGROUP"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\Maven_3.8.3"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="1"/>
+    <property name="BASE" value="C:\Program Files\Jenkins"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="PROCESSOR_REVISION" value="7e05"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\windows"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE_TMP" value="C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\WebdriverTest@tmp"/>
+    <property name="WORKSPACE" value="C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\WebdriverTest"/>
+    <property name="ChocolateyInstall" value="C:\ProgramData\chocolatey"/>
+    <property name="maven3.interceptor.common" value="C:\windows\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="JRK_Home" value="C:\Program Files\Java\jre1.8.0_291"/>
+    <property name="WINSW_EXECUTABLE" value="C:\Program Files\Jenkins\jenkins.exe"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\PowerShell\Modules\"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+  </properties>
+  <testcase classname="example.NewTest" name="beforeTest" time="767.293">
+    <failure message="Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+2157) |[1][GFX1-]: Fallback WR to SW-WR + D3D11 (t=17.3656) [GFX1-]: Fallback WR to SW-WR + D3D11
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=9.03705) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=9.03705) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=12.4771) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=9.03705) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=12.4771) |[G4][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=12.4771) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can&apos;t find profile directory.
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 2772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) [GFX1-]: RcANGLE(no compositor window)
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: Failed to connect WebRenderBridgeChild. (t=7.11649) [GFX1-]: Failed to connect WebRenderBridgeChild.
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: Failed to connect WebRenderBridgeChild. (t=7.11649) |[1][GFX1-]: Fallback WR to SW-WR + D3D11 (t=7.11649) [GFX1-]: Fallback WR to SW-WR + D3D11
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=5.83325) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=5.83325) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=13.6433) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=5.83325) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=13.6433) |[G4][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=13.6433) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+
+Build info: version: &apos;2.45.0&apos;, revision: &apos;5017cb8e7ca8e37638dc3091b2440b90a1d8686f&apos;, time: &apos;2015-02-27 09:10:26&apos;
+System info: host: &apos;LAPTOP-HVNH2UIN&apos;, ip: &apos;192.168.43.105&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_291&apos;
+Driver info: driver.version: FirefoxDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+2157) |[1][GFX1-]: Fallback WR to SW-WR + D3D11 (t=17.3656) [GFX1-]: Fallback WR to SW-WR + D3D11
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=9.03705) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=9.03705) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=12.4771) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=9.03705) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=12.4771) |[G4][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=12.4771) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can&apos;t find profile directory.
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 2772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) [GFX1-]: RcANGLE(no compositor window)
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: Failed to connect WebRenderBridgeChild. (t=7.11649) [GFX1-]: Failed to connect WebRenderBridgeChild.
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: Failed to connect WebRenderBridgeChild. (t=7.11649) |[1][GFX1-]: Fallback WR to SW-WR + D3D11 (t=7.11649) [GFX1-]: Fallback WR to SW-WR + D3D11
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=5.83325) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=5.83325) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=13.6433) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=5.83325) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=13.6433) |[G4][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=13.6433) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+Build info: version: &apos;2.45.0&apos;, revision: &apos;5017cb8e7ca8e37638dc3091b2440b90a1d8686f&apos;, time: &apos;2015-02-27 09:10:26&apos;
+System info: host: &apos;LAPTOP-HVNH2UIN&apos;, ip: &apos;192.168.43.105&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_291&apos;
+Driver info: driver.version: FirefoxDriver
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:130)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:246)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:114)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:191)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:186)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:182)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:95)
+	at example.NewTest.beforeTest(NewTest.java:18)
+Caused by: org.openqa.selenium.firefox.NotConnectedException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+2157) |[1][GFX1-]: Fallback WR to SW-WR + D3D11 (t=17.3656) [GFX1-]: Fallback WR to SW-WR + D3D11
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=9.03705) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=9.03705) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=12.4771) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=9.03705) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=12.4771) |[G4][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=12.4771) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can&apos;t find profile directory.
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 2772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) [GFX1-]: RcANGLE(no compositor window)
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: Failed to connect WebRenderBridgeChild. (t=7.11649) [GFX1-]: Failed to connect WebRenderBridgeChild.
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: Failed to connect WebRenderBridgeChild. (t=7.11649) |[1][GFX1-]: Fallback WR to SW-WR + D3D11 (t=7.11649) [GFX1-]: Fallback WR to SW-WR + D3D11
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=5.83325) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=5.83325) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=13.6433) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=5.83325) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=13.6433) |[G4][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=13.6433) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:118)
+	... 38 more
+</failure>
+    <system-err>org.openqa.selenium.firefox.NotConnectedException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+2157) |[1][GFX1-]: Fallback WR to SW-WR + D3D11 (t=17.3656) [GFX1-]: Fallback WR to SW-WR + D3D11
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=9.03705) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=9.03705) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=12.4771) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=7.47705) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=9.03705) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=9.03705) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=12.4771) |[G4][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=12.4771) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can&apos;t find profile directory.
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 2772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) [GFX1-]: RcANGLE(no compositor window)
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: Failed to connect WebRenderBridgeChild. (t=7.11649) [GFX1-]: Failed to connect WebRenderBridgeChild.
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: Failed to connect WebRenderBridgeChild. (t=7.11649) |[1][GFX1-]: Fallback WR to SW-WR + D3D11 (t=7.11649) [GFX1-]: Fallback WR to SW-WR + D3D11
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=5.83325) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=5.83325) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=13.6433) [GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0
+Crash Annotation GraphicsCriticalError: |[G0][GFX1-]: RcANGLE(no compositor window) (t=4.89325) |[G1][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=5.83325) |[G2][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=5.83325) |[G3][GFX1-]: [D3D11] create swap chain failed: 0x887a0022, 0 (t=13.6433) |[G4][GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN (t=13.6433) [GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:118)
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:246)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:114)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:191)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:186)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:182)
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:95)
+	at example.NewTest.beforeTest(NewTest.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:641)
+	at org.testng.TestRunner.run(TestRunner.java:609)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:177)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:105)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:103)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:74)
+Oct 31, 2021 11:36:29 PM org.openqa.selenium.os.UnixProcess$SeleniumWatchDog destroyHarder
+INFO: Command failed to close cleanly. Destroying forcefully (v2). org.openqa.selenium.os.UnixProcess$SeleniumWatchDog@5167f57d
+</system-err>
+  </testcase>
+  <testcase classname="example.NewTest" name="testEasy" time="0">
+    <skipped/>
+  </testcase>
+  <testcase classname="example.NewTest" name="afterTest" time="0.001">
+    <skipped/>
+  </testcase>
+</testsuite>

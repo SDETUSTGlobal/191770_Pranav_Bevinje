@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22117" started-at="2021-10-07T10:52:39Z" finished-at="2021-10-07T10:53:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22117" started-at="2021-10-07T10:52:39Z" finished-at="2021-10-07T10:53:01Z">
+      <class name="test2.NewTest">
+        <test-method status="PASS" signature="demoClass(java.lang.String, java.lang.String)[pri:0, instance:test2.NewTest@4bec1f0c]" name="demoClass" duration-ms="11013" started-at="2021-10-07T16:22:39Z" data-provider="testdata" finished-at="2021-10-07T16:22:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tester1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoClass -->
+        <test-method status="PASS" signature="demoClass(java.lang.String, java.lang.String)[pri:0, instance:test2.NewTest@4bec1f0c]" name="demoClass" duration-ms="10444" started-at="2021-10-07T16:22:50Z" data-provider="testdata" finished-at="2021-10-07T16:23:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tester1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoClass -->
+      </class> <!-- test2.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
